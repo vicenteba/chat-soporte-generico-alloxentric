@@ -14,7 +14,8 @@ El repositorio está organizado en tres fases, cada una con sus respectivas evid
 
 ## Integrantes
 
-- Por definir
+- Fabián Armijo
+- Vicente Balladares
 
 ## Consideraciones de seguridad
 
